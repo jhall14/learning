@@ -15,7 +15,7 @@ A running log of things I'm learning to build strong core software engineering s
 |[Datacamp: Importing Data in Python (Part 1)](https://www.datacamp.com/courses/importing-data-in-python-part-1)||
 |[Datacamp: Importing Data in Python (Part 2)](https://www.datacamp.com/courses/importing-data-in-python-part-2)||
 |[Datacamp: Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)||
-|[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|| ✓
+|[Datacamp: Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)|✓|
 |[Datacamp: Python Data Science Toolbox (Part 2)](https://www.datacamp.com/courses/python-data-science-toolbox-part-2)||
 |[Datacamp: Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)||
 |[Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)||
